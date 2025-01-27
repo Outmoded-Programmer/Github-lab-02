@@ -1,2 +1,4 @@
 Console.WriteLine("Name: Taha Asadullah"):
 Console.WriteLine("Roll-no: 24-ST-013"):
+Console.Write("FSC Subjects: ");
+Console.WriteLine("English , Biology , Physics , Chemistry , Islamiyiat , Pak-Studies , Tarjuma-Tul-Quran , Urdu");
