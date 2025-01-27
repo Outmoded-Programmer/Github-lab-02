@@ -1,3 +1,4 @@
+// this file contain my name , roll number , fsc subjects , 1st semester subjects and the subject i will study in 2nd semester
 Console.WriteLine("Name: Taha Asadullah"):
 Console.WriteLine("Roll-no: 24-ST-013"):
 Console.Write("FSC Subjects: ");
