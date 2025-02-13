@@ -13,3 +13,9 @@ Console.WriteLine("4. Functional English");
 Console.WriteLine("5. SDLC");
 Console.WriteLine("6. Discrete Structures");
 Console.WriteLine("7.  Software Configuration Management");
+
+//My github Practice
+int a=10;
+int b=18;
+int result=a+b;
+
